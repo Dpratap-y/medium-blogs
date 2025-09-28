@@ -1,0 +1,10 @@
+| Consensus Mechanism                            | Advantages                                                   | Disadvantages                                           | Protocols Using It          |
+| ---------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------- | --------------------------- |
+| **Proof of Work (PoW)**                        | Decentralized, Highly Secure, Acceptable Scalability         | Energy-inefficient, High Block Time, Hardware Dependent | Bitcoin, Dogecoin, Litecoin |
+| **Proof of Stake (PoS)**                       | Fast, Energy-efficient, Scalable, No Special Hardware        | Potential Centralization, Lower Misbehavior Cost        | Ethereum, Cardano, Tezos    |
+| **Delegated Proof of Stake (DPoS)**            | Scalable, Cheap Transactions, Energy-efficient               | Semi-centralized, Susceptible to 51% Attacks            | EOS, Ark, Tron              |
+| **Practical Byzantine Fault Tolerance (pBFT)** | Energy-efficient, High Throughput                            | Not Scalable, Vulnerable to Sybil Attacks               | Hyperledger Fabric, Zilliqa |
+| **Proof of Weight (PoWeight)**                 | Customizable, Fast, Energy-efficient                         | Semi-centralized, No Incentives                         | Algorand, Filecoin, Chia    |
+| **Proof of Capacity (PoC)**                    | Accessible, More Decentralized                               | Grinding Attacks, Space Privilege Issues                | Burstcoin, Permacoin        |
+| **Proof of Authority (PoA)**                   | Fast, Secure, Energy-light                                   | Not Decentralized, Breaks Anonymity                     | VeChain, Palm Network       |
+| **Proof of Importance (PoI)**                  | Sybil-resistant, Prevents Hoarding, Encourages Participation | Favors the Rich, Low Incentives                         | NEM                          |
